@@ -3,3 +3,4 @@
 3333333333333
 asdasdasdasdasd
 565465465
+add stg to hi.txt
